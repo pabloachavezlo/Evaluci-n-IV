@@ -2,16 +2,15 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    padding-left: 2rem;
+    padding-left: 1rem;
 }
 
 html {
     font-family:'Quicksand', sans-serif;
     font-size: 10px;
-    font-weight: 500;
-    color: var(--color1);
+    color:var(--color1);
     background-color: var(--color5);
-    box-sizing: border-box;
+
 }
 
 :root {
@@ -20,4 +19,5 @@ html {
     --color3: #000000;
     --color4: #1441bbea;
     --color5: #02020c;
+    --color6: #0653fa;
 }
