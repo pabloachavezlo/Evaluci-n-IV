@@ -1,7 +1,7 @@
 header {
-    width: 100%;
+    width: 27rem;
     padding: 1rem 0rem;
-    margin: auto;
+
 
     display: flex;
     flex-direction: column;
@@ -29,7 +29,7 @@ header {
 button {
     height: 5rem;
     display: block;
-    width: 20rem;
+    width: 25rem;
     color: var(--color3);
     border-radius: 1rem;
     margin-top: 2rem;
