@@ -29,6 +29,7 @@ button {
     height: 5rem;
     display: block;
     width: 20rem;
+    margin-top: 2rem;
     color: var(--color3);
     border-radius: 1rem;
     padding: 1rem;
