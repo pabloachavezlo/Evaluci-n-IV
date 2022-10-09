@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    padding-left: 2rem;
+}
+
+html {
+    font-family:'Quicksand', sans-serif;
+    font-size: 10px;
+    font-weight: 500;
+    color: var(--color1);
+    background-color: var(--color5);
+    box-sizing: border-box;
+}
+
+:root {
+    --color1: #f0f8ff;
+    --color2: #00f;
+    --color3: #000000;
+    --color4: #1441bbea;
+    --color5: #02020c;
+}
