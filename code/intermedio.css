@@ -1,0 +1,119 @@
+.intermedio {
+    height: 100%;
+    margin: 2rem;
+    font-size: 1.3rem;
+
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10rem;
+    background-color: var(--color6);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.intermedio .bts {
+    font-size: 1.3rem;
+    padding: 0rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 3rem;
+}
+
+.intermedio .bts .bt1 {
+    height: 10rem;
+    display: flex;
+    width: 15rem;
+    margin-right: 5rem;
+    color: var(--color1);
+    border-radius: 1rem;
+    margin-top: 1rem;
+    background-color: var(--color6);
+
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.intermedio .bts .bt2 {
+    height: 8rem;
+    display: flex;
+    width: 15rem;
+    margin-right: 5rem;
+    color: var(--color1);
+    border-radius: 1rem;
+    margin-top: 2rem;
+    background-color: var(--color6);
+
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.intermedio .bts .bt3 {
+    height: 8rem;
+    display: flex;
+    width: 15rem;
+    margin-right: 5rem;
+    color: var(--color1);
+    border-radius: 1rem;
+    margin-top: 2rem;
+    background-color: var(--color6);
+
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.intermedio .bts .bt4 {
+    height: 8rem;
+    display: flex;
+    width: 15rem;
+    margin-right: 5rem;
+    color: var(--color1);
+    border-radius: 1rem;
+    margin-top: 2rem;
+    background-color: var(--color6);
+
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.intermedio .bts .bt5 {
+    height: 8rem;
+    display: flex;
+    width: 15rem;
+    margin-right: 5rem;
+    color: var(--color1);
+    border-radius: 1rem;
+    margin-top: 2rem;
+    background-color: var(--color6);
+
+    font-size: 2rem;
+    font-weight: 700;
+    text-decoration: none;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
