@@ -1,119 +1,50 @@
 .intermedio {
     height: 100%;
+    width: 85%;
     margin: 2rem;
-    font-size: 1.3rem;
 
-    display: flex;
     flex-wrap: wrap;
-    margin-top: 10rem;
-    background-color: var(--color6);
-    font-family: 'Times New Roman', Times, serif;
+    flex-direction: row;
+    background-color: var(--color7);
+    
 }
 
 .intermedio .bts {
-    font-size: 1.3rem;
-    padding: 0rem 1rem;
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: 3rem;
-}
-
-.intermedio .bts .bt1 {
-    height: 10rem;
-    display: flex;
-    width: 15rem;
-    margin-right: 5rem;
-    color: var(--color1);
-    border-radius: 1rem;
-    margin-top: 1rem;
-    background-color: var(--color6);
-
-    font-size: 2rem;
-    font-weight: 700;
-    text-decoration: none;
-
-    display: flex;
-    align-items: center;
+    height: 100%;
+    width: 100%;
     justify-content: center;
-    flex-wrap: wrap;
+    flex-direction: row;
+
 }
 
-.intermedio .bts .bt2 {
-    height: 8rem;
-    display: flex;
-    width: 15rem;
-    margin-right: 5rem;
-    color: var(--color1);
-    border-radius: 1rem;
+.intermedio .bts .image1 {
     margin-top: 2rem;
-    background-color: var(--color6);
-
-    font-size: 2rem;
-    font-weight: 700;
-    text-decoration: none;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
+    padding: 2rem 5rem;
 }
 
-.intermedio .bts .bt3 {
-    height: 8rem;
-    display: flex;
-    width: 15rem;
-    margin-right: 5rem;
-    color: var(--color1);
-    border-radius: 1rem;
+.intermedio .bts .image2 {
     margin-top: 2rem;
-    background-color: var(--color6);
-
-    font-size: 2rem;
-    font-weight: 700;
-    text-decoration: none;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
+    padding: 2rem 5rem;
 }
 
-.intermedio .bts .bt4 {
-    height: 8rem;
-    display: flex;
-    width: 15rem;
-    margin-right: 5rem;
-    color: var(--color1);
-    border-radius: 1rem;
+.intermedio .bts .image3 {
     margin-top: 2rem;
-    background-color: var(--color6);
-
-    font-size: 2rem;
-    font-weight: 700;
-    text-decoration: none;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
+    padding: 2rem 5rem;
 }
 
-.intermedio .bts .bt5 {
-    height: 8rem;
-    display: flex;
-    width: 15rem;
-    margin-right: 5rem;
-    color: var(--color1);
-    border-radius: 1rem;
+.intermedio .bts .image4 {
     margin-top: 2rem;
-    background-color: var(--color6);
+    padding: 2rem 5rem;
+}
 
-    font-size: 2rem;
-    font-weight: 700;
-    text-decoration: none;
+.intermedio .bts .image5 {
+    margin-top: 2rem;
+    padding: 2rem 5rem;
+}
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
+@media screen and (min-width: 376px){
+    .intermedio {
+        height: 17rem;
+        width: 95%;
+    }
 }
